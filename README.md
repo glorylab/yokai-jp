@@ -10,7 +10,7 @@ Maintained by the team behind **[YOKAI.JP](https://yokai.jp)** - a Japanese yoka
 
 ## About YOKAI.JP
 
-**YOKAI.JP** is a comprehensive **Japanese yokai culture portal**. It presents a browsable yokai encyclopedia (traditional & modern), an interactive **[Yokai Diagnosis](https://yokai.jp/diagnosis)** quiz, an online **[Yokai Shrine](https://yokai.jp/shrine)** (omikuji, ema, visit flow), and [kid-friendly pages](https://yokai.jp/yokai/kids). The site also publishes frequently updated **Daily Yokai** entries and other interactive features.
+**YOKAI.JP** is a comprehensive **Japanese yokai culture portal**. It presents a browsable yokai encyclopedia (traditional & modern), an interactive **[Yokai Diagnosis](https://yokai.jp/diagnosis)** quiz, an online **[Yokai Shrine](https://yokai.jp/shrine)** (omikuji, ema, visit flow), and [kid-friendly pages](https://kids.yokai.jp). The site also publishes frequently updated **Daily Yokai** entries and other interactive features.
 
 This repository provides a machine-readable extract of that yokai catalog.
 
